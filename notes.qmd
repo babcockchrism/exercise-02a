@@ -1,0 +1,6 @@
+---
+title: "notes"
+format: html
+---
+
+# *lets go dawg call me mr hacker man*
